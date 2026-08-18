@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31176694/README.md)
 # merge_manga_spreads
 
 Turn a folder (or a whole shelf) of individual manga page images into landscape two-page spreads — reviewed and adjusted in your browser, packaged straight into `.cbz` files.
