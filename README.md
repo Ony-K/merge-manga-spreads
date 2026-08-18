@@ -1,4 +1,4 @@
-# merge_manga_spreads
+# Merge Manga Pages Into Spreads
 
 Turn a folder (or a whole shelf) of individual manga page images into landscape two-page spreads — reviewed and adjusted in your browser, packaged straight into `.cbz` files.
 
